@@ -121,6 +121,6 @@ Contributions and improvements welcome!
 
 ---
 
-**AGX Oberon — Console power. Workstation soul.**
+**AGX Oberon**
 
 *Last updated: June 17, 2026*
