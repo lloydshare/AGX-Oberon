@@ -2,7 +2,7 @@
 
 **A budget personal AI/Gaming workstation built on PS5 (Oberon) silicon.**
 
-Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (Cyan Skillfish / Ariel — the PS5 APU) into a compact, high-performance machine for local LLMs, inference, training, AI development, and AAA gaming.
+Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (Cyan Skillfish / Ariel — the PS5 APU) into a compact, high-performance machine for local LLMs, inference, training, AI development, and AAA 1080p/1440p gaming.
 
 ---
 
