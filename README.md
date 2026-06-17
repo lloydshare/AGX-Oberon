@@ -51,6 +51,7 @@ Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (C
 - 9× SATA ports
 - Water-cooled setup
 - Currently over 250 TFLOPs compute
+- Steam machine 
 
 ## Desired / Planned Features
 
