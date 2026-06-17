@@ -40,7 +40,7 @@ Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (C
   - Corsair CX650F RGB 650W Modular PSU
 - **Cooling**: Water cooling (1 radiator + multiple fans)
 
-**Status**: Early test phase — Planning to add 2 more V100s + SATA Blu-ray drive.
+**Status**: Early test phase — Planning to add 2 more V100s + SATA RW Blu-ray drive.
 
 ---
 
