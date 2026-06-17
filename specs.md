@@ -50,7 +50,7 @@
 |----------------------------|----------|-------|
 | **NVIDIA Tesla V100 SXM2** | 2×       | Volta architecture, 5120 CUDA cores each, 640 Tensor cores each, 16GB HBM2 per card, water cooled |
 | **GPU Clock (V100)**       | -        | Boost up to 1530 MHz |
-| **V100 Memory**            | 32GB total | HBM2 @ 900 GB/s per card |
+| **Totals**            | 32GB total | HBM2 @ 900 GB/s per card, 10240 CUDA cores, 1280 Tensor cores |
 
 *(Planned: +2× V100 SXM2 for 4× total)*
 
