@@ -6,21 +6,6 @@
 
 ---
 
-## Quick Summary
-
-| Category              | Specification                                      |
-|-----------------------|----------------------------------------------------|
-| **Platform**          | AMD BC-250 (Oberon-derived PS5 silicon)            |
-| **CPU**               | 6-core / 12-thread Zen 2 @ 3.5 GHz                |
-| **iGPU**              | 24 CU RDNA2 @ ~2000 MHz (1536 Shaders)            |
-| **Discrete GPUs**     | 2× NVIDIA Tesla V100 SXM2 (water cooled)           |
-| **Memory**            | 16GB GDDR6 Unified + 32GB HBM2e = **48GB Total**  |
-| **Total Compute**     | ~265+ TFLOPs (FP16/Tensor)                         |
-| **Storage**           | 256GB NVMe + 250GB SATA + 9× SATA ports           |
-| **Networking**        | Gigabit Ethernet + Wi-Fi 6 + BT 5.0                |
-| **Video Output**      | DisplayPort (iGPU)                                 |
-| **Status**            | Early test phase (planning 4× V100)                |
-
 ## Core System
 
 | Component                    | Specification                                      | Details |
