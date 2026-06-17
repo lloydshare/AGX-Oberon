@@ -15,7 +15,7 @@ Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (C
 - Work around hardware limitations of the BC-250 (console-derived silicon)
 - Excellent Windows and Linux support (including custom high-performance kernel)
 - Advanced power management and thermal tuning
-- Discover the real performance limits of the BC-250 platform
+- Discover the real resource limits of the BC-250 platform
 - Optional hybrid AMD + NVIDIA GPU support
 
 ## Current Hardware (Working)
