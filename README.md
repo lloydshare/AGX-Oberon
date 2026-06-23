@@ -21,7 +21,7 @@ Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (C
 ## Current Hardware (Working)
 
 - **Mainboard**: AMD BC-250
-- **APU**: 6-core Zen 2 + 24 CU RDNA2 (Oberon-derived)
+- **APU**: 6-core Zen 2 + 24/40 CU RDNA2 (Oberon-derived)
 - **Discrete GPUs**: 2× NVIDIA Tesla V100 SXM2
 - **Memory**: 16GB GDDR6 (unified) + 32GB HBM2e (No DDRx RAM)
 - **Storage**:
@@ -72,7 +72,7 @@ Turning salvaged enterprise server hardware and PS5-derived AMD BC-250 boards (C
 |-----------------------|----------------------------------------------------|
 | **Platform**          | AMD BC-250 (Oberon-derived PS5 silicon)            |
 | **CPU**               | 6-core / 12-thread Zen 2 @ 3.5 GHz                |
-| **iGPU**              | 24 CU RDNA2 @ ~2000 MHz (1536 Shaders)            |
+| **iGPU**              | 24 or 40 CU RDNA2 @ ~2000 MHz                     |
 | **Discrete GPUs**     | 2× NVIDIA Tesla V100 SXM2 (water cooled)           |
 | **Memory**            | 16GB GDDR6 Unified + 32GB HBM2e = **48GB Total**  |
 | **Total Compute**     | ~265+ TFLOPs (FP16/Tensor)                         |
